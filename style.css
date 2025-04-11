@@ -11,3 +11,7 @@ body{
 #search{
     color: rgb(220, 220, 220);
 }
+
+.lang{
+    margin: 0;
+}
